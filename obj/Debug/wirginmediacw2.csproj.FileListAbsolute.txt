@@ -1,0 +1,17 @@
+G:\wirginmediacw\wirginmediacw2\bin\Debug\wirginmediacw2.exe.config
+G:\wirginmediacw\wirginmediacw2\bin\Debug\wirginmediacw2.exe
+G:\wirginmediacw\wirginmediacw2\bin\Debug\wirginmediacw2.pdb
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.FormMain.resources
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.Properties.Resources.resources
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.csproj.GenerateResource.Cache
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.exe
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.pdb
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.csprojResolveAssemblyReference.cache
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.FormNewCustomer.resources
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.Formsearchcustomer.resources
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.FormAddNewService.resources
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.FormSearchServices.resources
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.FormEditCustomer.resources
+G:\wirginmediacw\wirginmediacw2\bin\Debug\WirginData.txt
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.FormEditService.resources
+G:\wirginmediacw\wirginmediacw2\obj\Debug\wirginmediacw2.FormCustomerSupport.resources
